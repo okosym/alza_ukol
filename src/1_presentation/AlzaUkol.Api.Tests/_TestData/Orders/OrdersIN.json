@@ -1,0 +1,10 @@
+{
+  "customerName": "Jan Novák",
+  "orderItems": [
+    {
+      "productName": "Boty",
+      "pricePerItem": 100,
+      "count": 1
+    }
+  ]
+}
